@@ -3,6 +3,7 @@
 // Function to calculate the summation of two numbers
 double difference(double a, double b) {
     return a - b;
+>>>>>>> dev
 }
 
 
@@ -18,7 +19,9 @@ int main() {
     std::cin >> num2;
 
     // Perform operations and print results
+
     std::cout << "Operation: " << difference(num1, num2) << std::endl;
+>>>>>>> dev
    
     return 0;
 }
